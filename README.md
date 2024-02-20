@@ -4,7 +4,7 @@
 
 | Orignal                 | Segmented       |
 |:--------------------: |:--------------------: |
-| <video  src="https://youtu.be/szz5VKRWbVw" type="video/mp4"> </video> | <video  src="https://youtu.be/gnHzDKjnsBI" type="video/mp4"> </video>  |
+| <video  src="./demo/original.mp4" type="video/mp4"> </video> | <video  src="./demo/segment.mp4" type="video/mp4"> </video>  |
 
 ## Environment Preparation
 1. create a virtual environment using conda and activate it.
