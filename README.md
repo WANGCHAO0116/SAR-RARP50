@@ -24,6 +24,14 @@ Train set: https://rdr.ucl.ac.uk/articles/dataset/SAR-RARP50_train_set/24932529
 
 Test set: https://rdr.ucl.ac.uk/articles/dataset/SAR-RARP50_test_set/24932499
 
+### Data preprocess
+
+A Python script is provided to extract frames from videos at 1 Hz. 
+
+```shell
+python sample_video.py -f <num_of_workers> -r <video_dir>
+```
+
 ### Preprocessed Dataset:
 
 Download link: (coming soon). 
