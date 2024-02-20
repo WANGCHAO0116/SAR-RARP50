@@ -30,6 +30,25 @@ Download link: (coming soon).
 
 Please put the preprocessed dataset in the directory ```./data```. 
 
+The file structure of data should be as follows: 
+
+```tree
+data/
+├── images/
+│   ├── video_01_000000000.png
+│   ├── video_01_000000060.png
+│   ├── ...
+│   └── video_50_000014520.png
+├── labels/
+│   ├── video_01_000000000.png
+│   ├── video_01_000000060.png
+│   ├── ...
+│   └── video_50_000014520.png
+└── splits/
+    ├── train.txt
+    └── test.txt
+```
+
 ## Checkpoints: 
 
 Checkpoints contain some trained weights files. 
