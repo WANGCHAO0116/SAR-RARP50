@@ -1,10 +1,5 @@
 # Machine Learning Task for PhD Interview at King's College London
 
-## Demo
-
-| Orignal                 | Segmented       |
-|:--------------------: |:--------------------: |
-| <video  src="./demo/original.mp4" type="video/mp4"> </video> | <video  src="./demo/segment.mp4" type="video/mp4"> </video>  |
 
 ## Environment Preparation
 1. create a virtual environment using conda and activate it.
