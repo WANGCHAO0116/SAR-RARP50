@@ -49,10 +49,10 @@ We provide two python scripts to make inference for images and videos, respectiv
 ### Make inference for image
 
 ```shell
-python image_inference.py --input_image {input_image_path} --model {model_checkpoint_path}
+python image_inference.py --input_image <input_image_path> --model <model_checkpoint_path>
 ```
 
 ### Make inference for video
 ```shell
-python video_inference.py --input_video {input_video_path} --model {model_checkpoint_path}
+python video_inference.py --input_video <input_video_path> --model <model_checkpoint_path>
 ```
