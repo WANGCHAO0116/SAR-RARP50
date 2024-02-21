@@ -35,7 +35,7 @@ python sample_video.py -f <num_of_workers> -r <video_dir>
 
 ### Preprocessed Dataset:
 
-Download link: (coming soon). 
+Download link: https://pan.baidu.com/s/1LK-ZTgA888DlipfscOoEkA?pwd=utsy 
 
 Please put the preprocessed dataset in the directory ```./data```. 
 
