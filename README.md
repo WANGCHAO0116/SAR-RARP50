@@ -60,11 +60,11 @@ data/
 
 ## Checkpoints: 
 
-Checkpoints contain some trained weights files. 
+Checkpoints are weights files (```.pth```). 
 
-Download link: (coming soon). 
+Download link: https://drive.google.com/file/d/1FfTJg4Qu8N9Nrg2CH2Agmh-LKGjuc_CH/view?usp=sharing
 
-Please put the checkpoints in the directory ```./checkpoints```
+Please put the checkpoints (```.pth``` file) in the directory ```./checkpoints```
 
 ## Train
 
