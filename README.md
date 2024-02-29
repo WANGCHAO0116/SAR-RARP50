@@ -1,4 +1,4 @@
-# Machine Learning Task for PhD Interview at King's College London
+# Machine Learning Task for SAR-RARP50
 
 
 ## Environment Preparation
